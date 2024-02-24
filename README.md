@@ -1,4 +1,5 @@
 ## SquareSpace x Zapier Workaround
+This script creates a pre-formated gmail draft so you dont have to pay for Zapier.
 
 #### by Gates Kennedy (2024)
 
