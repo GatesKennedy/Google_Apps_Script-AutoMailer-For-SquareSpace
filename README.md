@@ -1,6 +1,6 @@
 ## SquareSpace x Zapier Workaround
 
-#### by Gates Kennedy
+#### by Gates Kennedy (2024)
 
 #### www.GatesKennedy.com
 
@@ -21,10 +21,11 @@
         - Accept All Permissions
 
 2. From Google Drive (The account you just linked to SquareSpace)
+
     - Open the 'Spreadsheet' created by SquareSpace
     - Click 'Extensions' from top menu bar
         - -> Apps Script
-            - -> Copy 'main.js' into <> Code window
+            - -> Copy 'main.gs' into <> Code window
             - -> Save and Run
             - Add 'Services' from side menu with '+' icon
                 - -> 'Gmail API'
@@ -34,8 +35,9 @@
 
 ##### DONE
 
-    Any new row will trigger an email draft containing the contents of that row.
-    Test form submission or trigger draft creation by copying down new rows.
+-   Any new row will trigger an email draft containing the contents of that row.
+-   Test form submission or trigger draft creation by copying down new rows.
+-   Troubleshoot by examining the 'Executions' log from the side menu.
 
 ##### CONTACT G_K
 
